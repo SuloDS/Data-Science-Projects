@@ -37,7 +37,6 @@ Support for informed health decisions</br>
 Early diagnosis and preventive measures</br>
 Regular updates based on medical research</br>
 
-![AVC](https://github.com/SuloDS/SuloDS/assets/109469430/9ae560a4-9fa1-450b-8e9c-08c3b879b54d)
 https://sulods-diagnostico-avc.streamlit.app/
 
 ### Contribution and License
