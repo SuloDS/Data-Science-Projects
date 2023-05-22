@@ -6,6 +6,9 @@ This is the repo in which I post my data science, machine learning and deep lear
  - [Sales analysis](https://github.com/SuloDS/Data-Science-Projects/blob/main/Analise_Vendas.ipynb)
  - [Machine Learning: Regression Analysis With Covid 19 data](https://github.com/SuloDS/Data-Science-Projects/blob/main/Covid%2019.ipynb)
  - [Machine learning: Predicting the occurrence of diabetes](https://github.com/SuloDS/Data-Science-Projects/blob/main/Previsao%20de%20Diabete.ipynb)
+ - [Machine learning:buying propensity](https://github.com/SuloDS/Data-Science-Projects/blob/main/Algoritmo%20de%20propens%C3%A3o%20de%20compra%20de%20Usu%C3%A1rios%20de%20E-Commerce.ipynb)
+ - [Cancer Diagnosis: Neural Network](https://github.com/SuloDS/Data-Science-Projects/blob/main/Rede%20Neural%20com%20Programa%C3%A7%C3%A3o%20e%20Matem%C3%A1tica.ipynb)
+ - [Anime recommendation system](https://github.com/SuloDS/Data-Science-Projects/blob/main/Sistema%20de%20Recomendacao%20de%20Animes.ipynb)
 
  
  # About me :
